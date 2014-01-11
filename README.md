@@ -1,3 +1,15 @@
+Notice: This fork is intended for people building the qt client on OSX utilizing homebrew
+
+Build Instructions
+---------------------
+1. Install homebrew
+2. brew install berkeley-db4 boost openssl miniupnpc qt qrencode
+3. Clone this repo
+4. Enter repo directory
+5. "qmake"
+6. "make"
+7. Copy Securecoin-Qt.app into /Applications
+
 Securecoin 1.0
 ====================
 
